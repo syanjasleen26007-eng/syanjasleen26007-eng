@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Jasleen Syan 
+![Alt Text](<img width="450" height="230" alt="17778712582641854499952295960671" src="https://github.com/user-attachments/assets/8a131c53-d0ef-4d25-9b3c-6b28b66f9f8f" />
 
 🎓 BBA Student | 📊 Business Analytics Enthusiast  
 💡 Passionate about turning data into meaningful insights  
